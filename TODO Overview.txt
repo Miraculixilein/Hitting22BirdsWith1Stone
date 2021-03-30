@@ -1,54 +1,54 @@
-Interviewee:	#1 Lisanne v.d. Bovenkamp
+Interviewee:	#1 Lisanne
 Words: 5881
-Transcribed: 	No
+Transcribed: 	Yes
 Corrected:  	No
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
 
-Interviewee:	#2 Bas Kameraad
+Interviewee:	#2 Bas
 Words: 4452
-Transcribed: 	No
+Transcribed: 	Yes
 Corrected:  	No
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
 
-Interviewee:	#3 Oscar Mensink
+Interviewee:	#3 Oscar
 Words: 7023
-Transcribed: 	No
+Transcribed: 	Yes
 Corrected:  	No
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
 
-Interviewee:	#4 Marijn Westerik
+Interviewee:	#4 Marijn
 Words: 6290
-Transcribed: 	No
+Transcribed: 	Yes
 Corrected:  	No
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
 
-Interviewee:	#5 Jessica v. Bokhorst
+Interviewee:	#5 Jessica
 Words: 4124
-Transcribed: 	No
+Transcribed: 	Yes
 Corrected:  	No
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
 
-Interviewee:	#6 Thijs Aalders
+Interviewee:	#6 Thijs
 Words: 4783
-Transcribed: 	No
+Transcribed: 	Yes
 Corrected:  	No
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
 
-Interviewee:	#7 Kees Koenders
+Interviewee:	#7 Kees
 Words: 8310
-Transcribed: 	No
+Transcribed: 	Yes
 Corrected:  	No
 Coding I:   	No
 Coding II:  	No
