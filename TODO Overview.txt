@@ -1,4 +1,5 @@
 Interviewee:	#1 Lisanne v.d. Bovenkamp
+Words: 5881
 Transcribed: 	No
 Corrected:  	No
 Coding I:   	No
@@ -6,6 +7,7 @@ Coding II:  	No
 Coding III: 	No
 
 Interviewee:	#2 Bas Kameraad
+Words: 4452
 Transcribed: 	No
 Corrected:  	No
 Coding I:   	No
@@ -13,6 +15,7 @@ Coding II:  	No
 Coding III: 	No
 
 Interviewee:	#3 Oscar Mensink
+Words: 7023
 Transcribed: 	No
 Corrected:  	No
 Coding I:   	No
@@ -20,6 +23,7 @@ Coding II:  	No
 Coding III: 	No
 
 Interviewee:	#4 Marijn Westerik
+Words: 6290
 Transcribed: 	No
 Corrected:  	No
 Coding I:   	No
@@ -27,6 +31,7 @@ Coding II:  	No
 Coding III: 	No
 
 Interviewee:	#5 Jessica v. Bokhorst
+Words: 4124
 Transcribed: 	No
 Corrected:  	No
 Coding I:   	No
@@ -34,6 +39,7 @@ Coding II:  	No
 Coding III: 	No
 
 Interviewee:	#6 Thijs Aalders
+Words: 4783
 Transcribed: 	No
 Corrected:  	No
 Coding I:   	No
@@ -41,6 +47,7 @@ Coding II:  	No
 Coding III: 	No
 
 Interviewee:	#7 Kees Koenders
+Words: 8310
 Transcribed: 	No
 Corrected:  	No
 Coding I:   	No
