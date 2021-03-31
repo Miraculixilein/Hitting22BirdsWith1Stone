@@ -17,7 +17,7 @@ Coding III: 	No
 Interviewee:	#3 Oscar
 Words: 7023
 Transcribed: 	Yes
-Corrected:  	No
+Corrected:  	Yes
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
