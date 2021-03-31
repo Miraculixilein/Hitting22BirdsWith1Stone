@@ -33,7 +33,7 @@ Coding III: 	No
 Interviewee:	#5 Jessica
 Words: 4124
 Transcribed: 	Yes
-Corrected:  	No
+Corrected:  	Yes
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
@@ -41,7 +41,7 @@ Coding III: 	No
 Interviewee:	#6 Thijs
 Words: 4783
 Transcribed: 	Yes
-Corrected:  	No
+Corrected:  	Yes
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
