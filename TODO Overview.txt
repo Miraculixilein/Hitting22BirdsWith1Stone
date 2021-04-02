@@ -49,7 +49,7 @@ Coding III: 	No
 Interviewee:	#7 Kees
 Words: 8310
 Transcribed: 	Yes
-Corrected:  	In progress
+Corrected:  	Yes
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
