@@ -25,7 +25,7 @@ Coding III: 	No
 Interviewee:	#4 Marijn
 Words: 6290
 Transcribed: 	Yes
-Corrected:  	No
+Corrected:  	Yes
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
