@@ -1,7 +1,7 @@
 Interviewee:	#1 Lisanne
 Words: 5881
 Transcribed: 	Yes
-Corrected:  	No
+Corrected:  	Yes
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
@@ -9,7 +9,7 @@ Coding III: 	No
 Interviewee:	#2 Bas
 Words: 4452
 Transcribed: 	Yes
-Corrected:  	No
+Corrected:  	Yes
 Coding I:   	No
 Coding II:  	No
 Coding III: 	No
